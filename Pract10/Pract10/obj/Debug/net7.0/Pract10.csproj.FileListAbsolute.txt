@@ -1,0 +1,15 @@
+J:\программирование\код за курс\C#\Pract10\Pract10\bin\Debug\net7.0\Pract10.exe
+J:\программирование\код за курс\C#\Pract10\Pract10\bin\Debug\net7.0\Pract10.deps.json
+J:\программирование\код за курс\C#\Pract10\Pract10\bin\Debug\net7.0\Pract10.runtimeconfig.json
+J:\программирование\код за курс\C#\Pract10\Pract10\bin\Debug\net7.0\Pract10.dll
+J:\программирование\код за курс\C#\Pract10\Pract10\bin\Debug\net7.0\Pract10.pdb
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\Pract10.csproj.AssemblyReference.cache
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\Pract10.GeneratedMSBuildEditorConfig.editorconfig
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\Pract10.AssemblyInfoInputs.cache
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\Pract10.AssemblyInfo.cs
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\Pract10.csproj.CoreCompileInputs.cache
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\Pract10.dll
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\refint\Pract10.dll
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\Pract10.pdb
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\Pract10.genruntimeconfig.cache
+J:\программирование\код за курс\C#\Pract10\Pract10\obj\Debug\net7.0\ref\Pract10.dll
